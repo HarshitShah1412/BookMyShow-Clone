@@ -38,17 +38,3 @@ To Visit App :
 
 `localhost:3000/ideas`
 
-## Status
-
-To be updated!
-
-## Contributing guidelines
-
-
-If you are new to OpenSource please checkout out our [Contributing Guidelines](https://github.com/HackrackClub/BookMyShow-Clone/blob/master/CONTRIBUTING.md) to help you get started.
-
-## Contributers
-
-<a href="https://github.com/HackrackClub/BookMyShow-Clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HackrackClub/BookMyShow-Clone" />
-</a>
